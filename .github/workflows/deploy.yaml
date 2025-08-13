@@ -8,7 +8,7 @@ on:
 env:
   PYTHON_VERSION: '3.11'
   # Change the TOOLKIT_VERSION depending on which version you are using
-  TOOLKIT_VERSION: '0.4.15'
+  TOOLKIT_VERSION: '0.5.30'
 jobs:
   build-modules:
     strategy:
